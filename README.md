@@ -67,7 +67,7 @@ mission: Transform ideas into powerful digital experiences
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -76,7 +76,7 @@ mission: Transform ideas into powerful digital experiences
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchalverse&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
+-->
 ---
 
 ## 🚀 Featured Projects
