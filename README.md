@@ -2,6 +2,10 @@
 
 # ⚡ ANCHAL ⚡
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
+
+
+
 ```bash
 > Initializing developer profile...
 > Loading creativity ██████████████ 100%
