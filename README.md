@@ -14,6 +14,26 @@
 
 ---
 
+# GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anchalverse&theme=tokyonight" width="100%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anchalverse&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anchalverse&theme=tokyonight" width="48%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anchalverse&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anchalverse&theme=tokyonight&utcOffset=5.5" width="48%" />
+
+</div>
+
+---
+
 ## 🧠 About Me
 
 ```bash
@@ -67,6 +87,7 @@ mission: Transform ideas into powerful digital experiences
 </div>
 
 ---
+
 <!--
 ## 📊 GitHub Analytics
 
